@@ -5,4 +5,4 @@ Interests:
 - Machine Learning
 - Programming Language Design
   
-More information at: [personal blog](https://ethantompkins.com/)
+My [personal blog](https://ethantompkins.com/)
