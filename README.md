@@ -1,8 +1,8 @@
 ### Hello, I'm Ethan
 
 Interests:
+- Blockchain
 - Sports Analytics
-- Machine Learning
 - Programming Language Design
   
 My [personal website](https://ethantompkins.com/)
